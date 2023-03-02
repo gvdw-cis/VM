@@ -39,7 +39,7 @@
                     "writeAcceleratorEnabled": false,
                     "id": null,
                     "name": "Test-ARM-SQL_DataDisk_0",
-                    "storageAccountType": "StandardSSD_LRS",
+                    "storageAccountType": null,
                     "diskSizeGB": 8,
                     "diskEncryptionSet": null
                 },
@@ -51,7 +51,7 @@
                     "writeAcceleratorEnabled": false,
                     "id": null,
                     "name": "Test-ARM-SQL_DataDisk_1",
-                    "storageAccountType": "StandardSSD_LRS",
+                    "storageAccountType": null,
                     "diskSizeGB": 8,
                     "diskEncryptionSet": null
                 },
@@ -63,7 +63,7 @@
                     "writeAcceleratorEnabled": false,
                     "id": null,
                     "name": "Test-ARM-SQL_DataDisk_2",
-                    "storageAccountType": "StandardSSD_LRS",
+                    "storageAccountType": null,
                     "diskSizeGB": 8,
                     "diskEncryptionSet": null
                 }
