@@ -72,12 +72,12 @@
         "dataDiskResources": {
             "value": [
                 {
-                    "name": "Test-ARM-SQL_LogsDisk_0",
+                    "name": "Test-ARM-SQL_DataDisk_0",
                     "sku": "Premium_LRS",
                     "properties": {
                         "diskSizeGB": 8,
                         "creationData": {
-                            "createOption": "FromImage"
+                            "createOption": "Empty"
                         }
                     }
                 },
@@ -87,17 +87,17 @@
                     "properties": {
                         "diskSizeGB": 8,
                         "creationData": {
-                            "createOption": "FromImage"
+                            "createOption": "Empty"
                         }
                     }
                 },
                 {
-                    "name": "Test-ARM-SQL_TempDBDisk_2",
+                    "name": "Test-ARM-SQL_DataDisk_2",
                     "sku": "Premium_LRS",
                     "properties": {
                         "diskSizeGB": 8,
                         "creationData": {
-                            "createOption": "FromImage"
+                            "createOption": "Empty"
                         }
                     }
                 }
