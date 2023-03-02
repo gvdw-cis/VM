@@ -77,7 +77,7 @@
                     "properties": {
                         "diskSizeGB": 8,
                         "creationData": {
-                            "createOption": "empty"
+                            "createOption": "FromImage"
                         }
                     }
                 },
@@ -87,7 +87,7 @@
                     "properties": {
                         "diskSizeGB": 8,
                         "creationData": {
-                            "createOption": "empty"
+                            "createOption": "FromImage"
                         }
                     }
                 },
@@ -97,7 +97,7 @@
                     "properties": {
                         "diskSizeGB": 8,
                         "creationData": {
-                            "createOption": "empty"
+                            "createOption": "FromImage"
                         }
                     }
                 }
